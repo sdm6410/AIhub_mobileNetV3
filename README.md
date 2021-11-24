@@ -9,4 +9,5 @@ AI hub 대회 사용한 MobileNetV3모델의 코드를 올리고 [AI허브](http
 
 # Data Statistics
 | Class | # | Class | # |
+|-----------------|------|----------------------|------|
 | Meal_award(밥상) | 828 | Chest_drawers(서랍장) | 1095 |
