@@ -41,6 +41,7 @@ AI hub 대회 사용한 MobileNetV3모델의 코드를 올리고 [AI허브](http
 | High_pass(하이패스) | 21 |
 # Training Model
 ## 1.DATASET 구성
+<pre><code>	    
 --Training
   |--Meal_award
   |  |--imgname.jpg
@@ -54,6 +55,7 @@ AI hub 대회 사용한 MobileNetV3모델의 코드를 올리고 [AI허브](http
   |  |--imgname.jpg
   |  |--imgname.jpg
   |  |-- ...
+ </code></pre>
 ## 2. 학습
 MobileNetV3 -> jupyter notebook
 model.fit()
