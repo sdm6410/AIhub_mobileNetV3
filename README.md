@@ -59,6 +59,12 @@ AI hub 대회 사용한 MobileNetV3모델의 코드를 올리고 [AI허브](http
 ## 2. 학습
 MobileNetV3 -> jupyter notebook
 model.fit()
+![5](https://user-images.githubusercontent.com/41135138/143243084-0cbb7667-3c4b-4b24-9793-fef1deda4c32.PNG)
+![6](https://user-images.githubusercontent.com/41135138/143243296-9d200274-1de2-4274-bd7f-070d2e11e96d.PNG)
+
+
+## 3.학습 loss, Accuracy
+![download](https://user-images.githubusercontent.com/41135138/143243248-2567041f-5fc1-4fc8-b7e8-12c5dc79ce62.png)
 
 # MobileNet Models
 - MobileNetLargeV3 Trained with 49 class -> MobileNetLargeV3.h5
