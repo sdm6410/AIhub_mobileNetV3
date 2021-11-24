@@ -1,0 +1,60 @@
+밥상 - ( 828 ) Meal award
+서랍장 - ( 1095 ) Chest_drawers
+수납장 - ( 1001 ) Storage_closet
+싱크대 - ( 31 ) Sink
+식기건조기 - ( 111 ) Dish_dryer
+의자 - ( 1351 ) Chair
+장롱 - ( 566 ) Wardrobe
+책상 - ( 1621 ) Desk
+침대 - ( 60 ) Bed
+협탁 - ( 916 )
+화장대 - ( 235 )
+고철 - ( 1006 ) scrap metal
+골프채 - ( 1000 ) Golf club
+전기프라이팬 - ( 206 ) Electronic_frying_pan
+도기류 - 주전자 ( 169 ) Pottery kettle.
+의자형 소파 - ( 530 ) Chair_sofa
+철옷걸이 - ( 986 ) Hanger
+프라이팬 - ( 1000 ) frying pan
+가구류 - 쇼파 ( 807 ) Sofa
+나무행거 - ( 390 ) wooden hanger
+프린터 - ( 1015 ) Printer
+냉장고 - ( 1015 ) refrigerator
+컴퓨터 - ( 1015 ) Computer
+TV - ( 1015 )
+공기청정기 - ( 417 ) Air_purifier
+세탁기 - ( 455 ) washing machine
+청소기 - ( 1000 ) Vacuum_cleaner
+에어컨 - ( 180 ) Air_conditioner
+음식물처리기 - ( 76 ) Food_dispenser
+오디오 - ( 1040 ) Audio
+전기다리미 - ( 913 ) Electric_iron
+복사기 - ( 305 ) copy machine
+비디오플레이어 - ( 790 ) Video player.
+믹서 - ( 932 ) Mixer
+전기정수기 - ( 330 ) Electric_water_purifier
+전기 히터 - ( 1000 ) Electric_heater
+전기밥솥 - ( 1000 ) Electric_rice_cooker
+전기오븐 - ( 1000 ) Electric oven
+전자레인지 - ( 550 ) Microwave
+가습기 - ( 560 ) Humidifier
+상자 - ( 1015 ) box
+세발자전거 - ( 407 ) tricycle
+네발자전거 - ( 1000 ) four-wheeled bicycle
+하의 - ( 1000 ) Bottom
+외투 - ( 1014 ) Coat
+원피스 - ( 1014 ) One_piece
+연수기 - ( 55 ) Water_softener
+책자 - ( 1000 ) Booklets
+액자 - ( 1000 ) Frame
+도마 - ( 1015 ) Chopping_board
+팩시밀리 - ( 145 )  Facsimile
+고철류 - 주전자 - ( 529 )Scrap_metal_kettle
+두발 자전거 - ( 1006 ) Bicycle
+핸드폰 - ( 1040 ) Phone
+선풍기 - ( 1013 ) electric fan
+대형 플라스틱통 - ( 1000 )
+면의류 - ( 132 ) Clothing
+철옷걸이 - ( 986 ) Iron_hanger
+하이패스 - ( 21 ) High_pass 
+
