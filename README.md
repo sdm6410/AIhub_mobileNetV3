@@ -6,6 +6,7 @@ AI hub 대회 사용한 MobileNetV3모델의 코드를 올리고 [AI허브](http
 [다운로드 링크](https://aihub.or.kr/aidata/27708)
 - 전체 이미지수 : 36713
 - 클래스 종류 : 49가지
+![2](https://user-images.githubusercontent.com/41135138/143242706-762b1694-a631-4b5d-8717-85d9a1980bea.PNG)
 
 # Data Statistics
 | Class | # | Class | # |
@@ -38,3 +39,25 @@ AI hub 대회 사용한 MobileNetV3모델의 코드를 올리고 [AI허브](http
 | Phone(핸드폰) | 1040 | Electric_fan(선풍기) | 1013 |
 | Clothing(면의류) | 132 | Iron_hanger(철옷걸이) | 986 |
 | High_pass(하이패스) | 21 |
+# Training Model
+## 1.DATASET 구성
+--Training
+  |--Meal_award
+  |  |--imgname.jpg
+  |  |--imgname.jpg
+  |  |--imgname.jpg
+  |  |--imgname.jpg
+  |  |-- ...
+  |-- Chest_drawers
+  |  |--imgname.jpg
+  |  |--imgname.jpg
+  |  |--imgname.jpg
+  |  |--imgname.jpg
+  |  |-- ...
+## 2. 학습
+MobileNetV3 -> jupyter notebook
+model.fit()
+
+# MobileNet Models
+- MobileNetLargeV3 Trained with 49 class -> MobileNetLargeV3.h5
+- MobileNetSMALLV3 Trained with 49 class -> MobileNetSMALLV3.h5
